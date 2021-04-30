@@ -1,0 +1,19 @@
+{
+  "name": "crackhead",
+  "version": "1.0.0",
+  "description": "CrackHead made to easy do stuff with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-JR30/Crack-Head.git"
+  },
+  "author": "Royal Coding Family",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ-JR30/Crack-Head/issues"
+  },
+  "homepage": "https://github.com/DJ-JR30/Crack-Head#readme"
+}
